@@ -1,0 +1,15 @@
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\bin\Debug\net6.0\Numbers from 1 to 100.exe
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\bin\Debug\net6.0\Numbers from 1 to 100.deps.json
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\bin\Debug\net6.0\Numbers from 1 to 100.runtimeconfig.json
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\bin\Debug\net6.0\Numbers from 1 to 100.dll
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\bin\Debug\net6.0\Numbers from 1 to 100.pdb
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\obj\Debug\net6.0\Numbers from 1 to 100.csproj.AssemblyReference.cache
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\obj\Debug\net6.0\Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\obj\Debug\net6.0\Numbers from 1 to 100.AssemblyInfoInputs.cache
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\obj\Debug\net6.0\Numbers from 1 to 100.AssemblyInfo.cs
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\obj\Debug\net6.0\Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\obj\Debug\net6.0\Numbers from 1 to 100.dll
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\obj\Debug\net6.0\refint\Numbers from 1 to 100.dll
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\obj\Debug\net6.0\Numbers from 1 to 100.pdb
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\obj\Debug\net6.0\Numbers from 1 to 100.genruntimeconfig.cache
+C:\Users\bogom\Desktop\basic\for loop\Numbers from 1 to 100\obj\Debug\net6.0\ref\Numbers from 1 to 100.dll

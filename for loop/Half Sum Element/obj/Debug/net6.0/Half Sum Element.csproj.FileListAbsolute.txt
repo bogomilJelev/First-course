@@ -1,0 +1,15 @@
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\bin\Debug\net6.0\Half Sum Element.exe
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\bin\Debug\net6.0\Half Sum Element.deps.json
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\bin\Debug\net6.0\Half Sum Element.runtimeconfig.json
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\bin\Debug\net6.0\Half Sum Element.dll
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\bin\Debug\net6.0\Half Sum Element.pdb
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\obj\Debug\net6.0\Half Sum Element.csproj.AssemblyReference.cache
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\obj\Debug\net6.0\Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\obj\Debug\net6.0\Half Sum Element.AssemblyInfoInputs.cache
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\obj\Debug\net6.0\Half Sum Element.AssemblyInfo.cs
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\obj\Debug\net6.0\Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\obj\Debug\net6.0\Half Sum Element.dll
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\obj\Debug\net6.0\refint\Half Sum Element.dll
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\obj\Debug\net6.0\Half Sum Element.pdb
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\obj\Debug\net6.0\Half Sum Element.genruntimeconfig.cache
+C:\Users\bogom\Desktop\basic\for loop\Half Sum Element\obj\Debug\net6.0\ref\Half Sum Element.dll
